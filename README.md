@@ -10,6 +10,8 @@ I build small, offline-first tools around podcasts and transcripts, and write do
 
 **Write-ups:** [dev.to/prime619](https://dev.to/prime619)
 
-**Free downloads and paid packs** (I make money from the paid ones): [pppioneer54.gumroad.com](https://pppioneer54.gumroad.com) – podcast LUTs for talking-head video, a clip planner, hook and checklist PDFs.
-
 **Hosted versions on Apify** (paid per use): [apify.com/prime619](https://apify.com/prime619)
+
+**XRechnungsportal** (create XRechnung e-invoices in the browser, free): [xrechnungsportal.halloneuna.at](https://xrechnungsportal.halloneuna.at)
+
+**Gumroad:** [pppioneer54.gumroad.com](https://pppioneer54.gumroad.com) – a free n8n template (website form leads to Google Sheets with an auto-reply) and children's picture and coloring books as PDF.
